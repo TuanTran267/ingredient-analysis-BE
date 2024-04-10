@@ -1,0 +1,1 @@
+{"version":3,"file":"ingredient.js","sourceRoot":"","sources":["../../src/models/ingredient.ts"],"names":[],"mappings":";;AAEA,MAAqB,UAAU;IAC3B,2GAA2G;IAE3G,YAAmB,IAAY,EAAS,UAAkB,EAAS,SAAmB,EAAS,EAAa;QAAzF,SAAI,GAAJ,IAAI,CAAQ;QAAS,eAAU,GAAV,UAAU,CAAQ;QAAS,cAAS,GAAT,SAAS,CAAU;QAAS,OAAE,GAAF,EAAE,CAAW;IAAG,CAAC;CACnH;AAJD,6BAIC;AAGD;;;;;;;;;;;;GAYG"}
